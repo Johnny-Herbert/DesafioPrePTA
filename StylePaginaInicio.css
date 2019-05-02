@@ -16,6 +16,10 @@ body
     /* text-align: center; */
 
 }
+#imgBanner
+{
+    width: 100%;
+}
 #logoBanner
 {
     position: absolute;
