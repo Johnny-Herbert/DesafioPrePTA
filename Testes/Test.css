@@ -1,0 +1,43 @@
+#servicos
+{
+    display: flex;
+    flex-direction: column;
+    
+    height: 1000px;
+}
+#linha1
+{
+    height: 175px;
+    background-color: beige;
+    display: flex;
+    flex-wrap: wrap;
+    /* align-content: flex-start; */
+    justify-content: space-around;
+    align-items: center;
+    /* align-content: space-between; */
+}
+#serviço1
+{
+    background-color: black;
+    height: 50px;
+    width: 150px;
+}
+#serviço2
+{
+    background-color: brown;
+    height: 100px;
+    width: 150px;   
+}
+#serviço3
+{
+    background-color: blue;
+    height: 50px;
+    width: 150px;   
+}
+#linha2
+{
+    height: 125px;
+    background-color: beige;
+    display: flex;
+    flex-wrap: wrap;
+}
